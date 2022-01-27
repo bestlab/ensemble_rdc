@@ -1,0 +1,5 @@
+
+This code fits simulated ensembles of structures to experimental RDCs.
+
+See test_rdc.csh for use cases.
+
