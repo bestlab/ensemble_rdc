@@ -11,6 +11,7 @@
 //#include <unistd.h>
 #include <string>
 #include <cstring>
+#include <climits>
 #include <vector>
 //#include "genfunlib.h"
 #include "swapbytes.h"
